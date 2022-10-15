@@ -50,6 +50,7 @@ canvas {
   height: 80%;
   position: absolute;
   transition: 650ms ease;
+  border-radius: 30px;
 }
 
 .img-01 {
