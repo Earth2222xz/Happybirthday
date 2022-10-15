@@ -7,6 +7,5 @@
 </div>
 
 ---
-<div align="center">
-  made with 💖 by @s-shemmee For @EladrariSoukaina
-</div>
+
+> made with 💖 by [@s-shemmee](https://www.github.com/s-shemmee) For [@EladrariSoukaina](https://github.com/soukaina-cloud)
